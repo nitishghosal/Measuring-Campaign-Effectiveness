@@ -44,4 +44,4 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 ### Output variable (desired target):
 <br/>21 - y - has the client subscribed a term deposit? (binary: 'yes','no')
 
-The final report with findings can be found [here](http://rpubs.com/nitishghosal/370759).
+### The final report with findings can be found [here](http://rpubs.com/nitishghosal/370759).
